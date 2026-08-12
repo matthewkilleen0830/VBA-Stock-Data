@@ -1,6 +1,6 @@
 Sub Stock_Market_Analyst():
 
-    ' 2026 Code Updates Made
+    ' // 2020 Code (for updates see:  2026-08-12 VBAScript1.vbs)
     'Declare variables and set initial values
     Dim ws As Worksheet
     
