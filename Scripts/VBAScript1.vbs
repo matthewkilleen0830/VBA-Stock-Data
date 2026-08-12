@@ -1,5 +1,6 @@
 Sub Stock_Market_Analyst():
 
+    ' 2026 Code Updates Made
     'Declare variables and set initial values
     Dim ws As Worksheet
     
