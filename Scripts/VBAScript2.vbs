@@ -1,6 +1,6 @@
 Sub Bonus_Summary():
 
-    '2026 Code Updates Made
+    ' // 2020 Code (for updates see:  2026-08-12 VBAScript2.vbs)
     'Bonus summary output
     
     'Loop through output rows of data in all worksheets in workbook
